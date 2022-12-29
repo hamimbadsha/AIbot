@@ -1,0 +1,6 @@
+Hi there make sure to install every necesarry modules before running the scripte 
+how to install everything in one single code :- 
+
+pip install openai requests colored
+
+
