@@ -5,8 +5,6 @@ from colored import fg, bg, attr
 # Set the API key
 openai.api_key = ""
 
-# Define your Ethereum address
-eth_address = "0x1234567890abcdef"
 
 while True:
     # Ask the user for input
